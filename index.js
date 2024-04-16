@@ -1,5 +1,5 @@
 //quotes
-const array = ["quote one longer longer ois good its even longerrrr oh wow ita crazyyyy noooo this is lorem  lorem also long so i can swee how it looks in a long box that i have created oh wow its long", "so is quote two","so is three","and five","and more","exapmle text", "we will continue","and on and on it goes"]
+const array = ["quote one longer longer is good its even longerrrr oh wow ita crazyyyy noooo this is lorem  lorem also long so i can swee how it looks in a long box that i have created oh wow its long", "so is quote two","so is three","and five","and more","exapmle text", "we will continue","and on and on it goes"]
 const authors = ["man1","man2",'Man3',"man4","man5","man6","man7","man8","man9", "man10"]
 
 // select the div in the html by the id name 
@@ -10,7 +10,7 @@ const body = document.getElementById("body")
 
 
 //when body is clicked change quote
-body.addEventListener("click", () => {
+quoteBox.addEventListener("click", () => {
     changeQuote()
 })
 
