@@ -31,3 +31,6 @@ function getRandomQuote() {
 
 //appending the dynamical created div to the html in the location (holder)
 //document.body.holder.appendChild(holder)
+
+
+setInterval(changeQuote, 10000);

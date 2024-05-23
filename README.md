@@ -14,3 +14,10 @@ step 4 assign a function to randomly choose a number to use this value to select
 
 step 5 create a function to take the random number value and use it to get information from the arrays to append their content to the designated spot in the html
 
+
+
+
+
+extra 
+
+Make change daily?
